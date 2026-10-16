@@ -1,0 +1,3 @@
+jupyterlab
+matplotlib
+pyperplan==2.1
